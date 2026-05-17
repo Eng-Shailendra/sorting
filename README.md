@@ -1,4 +1,8 @@
 ## Array sorting 
-1- Bubble sort 
-2- Count-sort
-3- Sellection sort
+```
+ Bubble sort 
+ Count-sort
+ Sellection sort
+ Merge sort
+
+```
